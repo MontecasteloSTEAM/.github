@@ -16,6 +16,7 @@ Somos el espacio de **innovación y tecnología del Colegio Montecastelo**, un c
 
 - 🤖 **First LEGO League 2026** – El equipo **Montecastelo BOT** logró el *3.er premio al ganador* y el *1.er premio al comportamiento del robot* en el torneo de Ferrol, y se clasificó para representar a Galicia en la Gran Final Nacional (Burgos).
 - 🌊 **First LEGO League 2025** – Primer premio de la Xunta de Galicia al *proyecto de innovación* (temática de exploración oceánica) y nominación al National Innovation Award.
+- 💡 **Certamen Tecnológico Efigy 2025 (VII edición, Fundación Naturgy)** – Premio al *mejor proyecto comunicado* por **EnergyStep**: una baldosa piezoeléctrica que convierte las pisadas en electricidad y envía los datos en tiempo real a una app móvil. Compitieron 97 proyectos de 34 centros.
 - 🚁 **Liga Maker Drone 2025** – Ganadores con el alumnado de 2.º ESO entre 18 centros gallegos, con un dron para transportar medicinas a zonas remotas (organizada por la Fundación Barrié y el ITG).
 - 🥇 **First LEGO League 2023** – Premio al *Mejor Proyecto de Innovación* (Fundación Integra) con **Energy Step**, baldosas inteligentes que generan electricidad con las pisadas, y final internacional en Australia.
 - 🛰️ **CanSat 2022** – Entre los cinco equipos ganadores del desafío de la Agencia Espacial Europea.
